@@ -1,5 +1,5 @@
 -- Exams
-INSERT INTO EXAM (name, description) VALUES ('Java Exam', 'Show your Java skills!');
+INSERT INTO EXAM (name, description) VALUES ('Java Exam - vikram', 'Show your Java skills!');
 INSERT INTO EXAM (name, description) VALUES ('Scala Exam', 'Are you functional?');
 
 -- Java Questions with Answers
