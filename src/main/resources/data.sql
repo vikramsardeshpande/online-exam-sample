@@ -1,6 +1,6 @@
 -- Exams
-INSERT INTO EXAM (name, description) VALUES ('Java Exam - vikram', 'Show your Java skills!');
-INSERT INTO EXAM (name, description) VALUES ('Scala Exam', 'Are you functional?');
+INSERT INTO EXAM (name, description) VALUES ('Java Exam - Jitendra', 'Show your Java skills!');
+INSERT INTO EXAM (name, description) VALUES ('Scala Exami Aziz', 'Are you functional?');
 
 -- Java Questions with Answers
 INSERT INTO QUESTION (exam_id, name, multi_answer) VALUES (1, 'Which collection cannot contain duplicate elements', 0);
